@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "Sap Logon.xaml",
+    "Map": {
+      "\\SapLogon": "1.1",
+      "\\SapLogon\\Try Catch": "1.2",
+      "\\SapLogon\\Try Catch\\SapLogon": "1.8",
+      "\\SapLogon\\Try Catch\\SapLogon\\Kill Process": "1.36",
+      "\\SapLogon\\Try Catch\\SapLogon\\SAP Logon": "1.31",
+      "\\SapLogon\\Try Catch\\SapLogon\\Use Application: SAP": "1.11",
+      "\\SapLogon\\Try Catch\\SapLogon\\Use Application: SAP\\Do": "1.12",
+      "\\SapLogon\\Try Catch\\SapLogon\\Use Application: SAP\\Do\\SAP Login 'saplogon.exe  SAP'": "1.15",
+      "\\SapLogon\\Try Catch\\SapLogon\\Use Application: SAP\\Do\\Call Transaction 'saplogon.exe SAP'": "1.13",
+      "\\SapLogon\\Try Catch\\Log Message": "1.3"
+    }
+  }
+]

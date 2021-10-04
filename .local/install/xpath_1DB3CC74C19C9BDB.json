@@ -1,0 +1,39 @@
+[
+  {
+    "Id": "Add rol en SAP.xaml",
+    "Map": {
+      "\\Add_rol_en_SAP": "1.1",
+      "\\Add_rol_en_SAP\\Use Application: User Maintenance: Initial Screen": "1.155",
+      "\\Add_rol_en_SAP\\Use Application: User Maintenance: Initial Screen\\Do": "1.156",
+      "\\Add_rol_en_SAP\\Use Application: User Maintenance: Initial Screen\\Do\\Click 'unchecked'": "1.157",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'": "1.132",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'\\Do": "1.140",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'\\Do\\CV Click - Text": "1.141",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'\\UiPathScreenOCR": "1.133",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'_2": "1.91",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'_2\\Do": "1.99",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'_2\\Do\\CV Click - Icon": "1.118",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'_2\\Do\\Use Application: Maintain Users": "1.109",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'_2\\Do\\Use Application: Maintain Users\\Do": "1.110",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'_2\\Do\\Use Application: Maintain Users\\Do\\Type Into": "1.111",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'_2\\Do\\CV Click - Text": "1.100",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'Afx:6E310000:1008'_2\\UiPathScreenOCR": "1.92",
+      "\\Add_rol_en_SAP\\Use Application: Role Name (1)": "1.77",
+      "\\Add_rol_en_SAP\\Use Application: Role Name (1)\\Do": "1.78",
+      "\\Add_rol_en_SAP\\Use Application: Role Name (1)\\Do\\Type Into 'Edit'": "1.79",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'saplogon.exe Role'": "1.54",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'saplogon.exe Role'\\Do": "1.62",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'saplogon.exe Role'\\Do\\CV Click - Icon": "1.63",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'saplogon.exe Role'\\UiPathScreenOCR": "1.55",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'SAPALVGrid'": "1.25",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'SAPALVGrid'\\Do": "1.33",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'SAPALVGrid'\\Do\\CV Check - CheckBox": "1.43",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'SAPALVGrid'\\Do\\CV Click - Icon": "1.34",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'SAPALVGrid'\\UiPathScreenOCR": "1.26",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'saplogon.exe Maintain'": "1.2",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'saplogon.exe Maintain'\\Do": "1.10",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'saplogon.exe Maintain'\\Do\\CV Click - Icon": "1.11",
+      "\\Add_rol_en_SAP\\CV Screen Scope 'saplogon.exe Maintain'\\UiPathScreenOCR": "1.3"
+    }
+  }
+]

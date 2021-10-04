@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "Main.xaml",
+    "Map": {
+      "\\Sequence": "1.1",
+      "\\Sequence\\Invoke Sap Logon workflow": "1.6",
+      "\\Sequence\\Invoke Gestionar plantilla usuario workflow": "1.2"
+    }
+  }
+]

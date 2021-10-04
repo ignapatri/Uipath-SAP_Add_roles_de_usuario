@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "Gestionar plantilla usuario.xaml",
+    "Map": {
+      "\\Gestionar plantilla usuario": "1.1",
+      "\\Gestionar plantilla usuario\\Excel Application Scope": "1.2",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do": "1.3",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\Read Range": "1.62",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\Read Cell": "1.54",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\Use Application: User Maintenance: Initial Screen": "1.37",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\Use Application: User Maintenance: Initial Screen\\Do": "1.38",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\Use Application: User Maintenance: Initial Screen\\Do\\Type Into 'Role User master record'": "1.39",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\For Each Row in Data Table": "1.4",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\For Each Row in Data Table\\Body": "1.5",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\For Each Row in Data Table\\Body\\Assign": "1.17",
+      "\\Gestionar plantilla usuario\\Excel Application Scope\\Do\\For Each Row in Data Table\\Body\\Invoke Add rol en SAP workflow": "1.6"
+    }
+  }
+]
